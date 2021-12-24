@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://localhost/sitemap.xml
-Host: https://localhost
